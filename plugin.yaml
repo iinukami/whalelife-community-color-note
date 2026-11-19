@@ -1,0 +1,6 @@
+id: color-note
+name: 颜色便签
+description: 用三种颜色记下一条便签，重新打开时继续查看。
+version: 0.1.0
+apiVersion: 1.0.0
+depends: [web]
